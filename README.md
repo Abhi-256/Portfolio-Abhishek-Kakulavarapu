@@ -4,7 +4,7 @@ Each dashboard demonstrates my skills and expertise in data visualization using 
 
 The full descriptionof each dashboard will be added soon. (Sorry for the inconvenience. I'm still owrking on the documentation part)
 
-About Me
+**About Me**
 I am a highly skilled and motivated data analyst with extensive experience in the industry. My expertise lies in generating insightful reports and providing data-driven insights to stakeholders that help organizations make informed decisions.
 
 Currently, I am working as a Business Analyst at FMS Solutions, where I have identified the need for process automation and implemented automation techniques using RPA. Additionally, I have gathered critical information from multiple teams within the organization and from BAU meetings with the stakeholders to generate useful reports using Power BI. I have also served as the liaison between the stakeholders and management team of the organization, ensuring timely completion of the project.
@@ -16,3 +16,16 @@ In my roles as a Data and Reporting Analyst at Probe Group, I have continuously 
 Throughout my career, I have gained proficiency in various technologies, including Power BI, SQL Server, MS Excel, Azure SQL, Amazon Comprehend, Python (Google Colab), and Metabase. I am passionate about data analysis and strive to provide actionable insights to organizations to drive growth and success.
 
 I am constantly seeking new challenges and opportunities to expand my skill set and contribute to the success of organizations.
+
+**Getting Started**
+If you want to explore any of the dashboards, follow these steps:
+
+Clone or download this repository.
+Open Power BI Desktop.
+Select "Open" and navigate to the downloaded .pbix file of the desired dashboard.
+Start exploring the data and interact with the visualizations to gain insights.
+
+**Contact Me**
+Feel free to reach out to me
+Email Id: vkakulavarapu25@gmail.com
+Linkedin: Abhishek Kakulavarapu (www.linkedin.com/in/abhishek-kakulavarapu-896a8615b)

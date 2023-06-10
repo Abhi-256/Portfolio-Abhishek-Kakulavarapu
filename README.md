@@ -2,7 +2,7 @@
 This repository serves as my portfolio of Power BI dashboards that I have created. 
 Each dashboard demonstrates my skills and expertise in data visualization using Power BI.
 
-The full descriptionof each dashboard will be added soon. (Sorry for the inconvenience. I'm still owrking on the documentation part)
+The full description of each dashboard will be added soon. (Sorry for the inconvenience. I'm still owrking on the documentation part)
 
 **About Me**
 I am a highly skilled and motivated data analyst with extensive experience in the industry. My expertise lies in generating insightful reports and providing data-driven insights to stakeholders that help organizations make informed decisions.
